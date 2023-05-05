@@ -14,8 +14,8 @@ export class HomeComponent implements OnInit {
 
   goSocialMedia(page: string) {
     if(page == 'facebook') window.open("https://www.facebook.com/profile.php?id=100091290512115&mibextid=ZbWKwL", 'blank');
-    if(page == 'instagram') window.open("http://instagram.com/", 'blank');
-    if(page == 'whatsapp') window.open("https://api.whatsapp.com/send?phone=50688967637", 'blank');
+    if(page == 'instagram') window.open("https://instagram.com/katica_cantares4_7?igshid=ZDdkNTZiNTM=", 'blank');
+    if(page == 'whatsapp') window.open("https://api.whatsapp.com/send?phone=50671623019", 'blank');
   }
 
 }
